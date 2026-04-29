@@ -10,16 +10,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" />
 </p>
@@ -35,6 +29,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Levoisier/Levoisier/output/snake.svg" />
+</p>
+
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoisier&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2400" height="165" />
 </p>
