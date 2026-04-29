@@ -36,5 +36,15 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoisier&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2400" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Levoisier&theme=radical&hide_border=true&background=0D1117&ring=FF2400&fire=FF2400&currStreakLabel=FF2400" height="165" />
+</p>
+
+---
+
+<p align="center">
   <sub><em> A day without learning something new, feels like a missed opportunity. </em></sub>
 </p>
