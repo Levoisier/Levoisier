@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Cristian 🦆</h1>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=FF2400&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cristian+%E2%9C%8C%EF%B8%8F;Chemical+Engineer+%E2%9A%97%EF%B8%8F;FullStack+Builder+%F0%9F%9B%A0%EF%B8%8F;Let's+build+something+cool!" alt="Typing SVG" />
+</h1>
 <p align="center">
-  <em>Proud member of <a href="https://orquestia.io">Orquestia</a> — building things, breaking things, shipping things.</em>
+  <em>Forging the future at <a href="https://orquestia.io">Orquestia</a> 🪿 — building things, breaking things, shipping things.</em>
 </p>
 
 <p align="center">
@@ -27,8 +28,10 @@
 
 ### What I'm up to
 
-- 🦆 Running the show at **[orquestia.io](https://orquestia.io)**
-- 🛠️  Building scalable and high impact solutions for LATAM companies.
+- Running the show at **[orquestia.io](https://orquestia.io)**
+- Building scalable and high impact solutions for LATAM companies.
+- Pushing the limits of AI.
+- Exploring mobile app development.
 
 ---
 
