@@ -4,6 +4,17 @@
 <p align="center">
   <em>Forging the future at <a href="https://orquestia.io">Orquestia</a> 🪿 — building things, breaking things, shipping things.</em>
 </p>
+<p align="center">
+  <a href="https://levoisier-portoflio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=E11D2A&center=true&vCenter=true&width=400&lines=%F0%9F%8C%90+Check+out+my+portfolio;levoisier-portoflio.vercel.app" alt="Portfolio Link" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://levoisier-portoflio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-%23E11D2A?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
