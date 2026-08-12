@@ -42,8 +42,9 @@
 
 - Running the show at **[orquestia.io](https://orquestia.io)**
 - Building scalable and high impact solutions for LATAM companies.
-- Pushing the limits of AI.
+- Pushing the limits of Agent Driven Development.
 - Exploring mobile app development.
+- Diving into new architectures.
 
 ---
 
