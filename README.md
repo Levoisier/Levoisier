@@ -6,12 +6,6 @@
 </p>
 <p align="center">
   <a href="https://levoisier-portoflio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=E11D2A&center=true&vCenter=true&width=400&lines=%F0%9F%8C%90+Check+out+my+portfolio;levoisier-portoflio.vercel.app" alt="Portfolio Link" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://levoisier-portoflio.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-%23E11D2A?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
@@ -24,15 +18,17 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=gsap&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-000040?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 </p>
 
@@ -40,25 +36,22 @@
 
 ### What I'm up to
 
-- Running the show at **[orquestia.io](https://orquestia.io)**
-- Building scalable and high impact solutions for LATAM companies.
-- Pushing the limits of Agent Driven Development.
-- Exploring mobile app development.
-- Diving into new architectures.
+- 🪿 Running the show at **[orquestia.io](https://orquestia.io)**
+- ⚗️ Building scalable, high-impact platforms for LATAM companies.
+- 🧬 Pushing the limits of agent-driven development.
+- 📡 Shipping mobile apps alongside the web ones.
+- 🧪 Contributing upstream to **[Odoo](https://github.com/odoo/odoo)**.
 
 ---
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levoisier/Levoisier/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Levoisier/Levoisier/output/snake.svg" />
   </picture>
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levoisier&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2400" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Levoisier&theme=radical&hide_border=true&background=0D1117&ring=FF2400&fire=FF2400&currStreakLabel=FF2400" height="165" />
